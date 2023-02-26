@@ -15,5 +15,8 @@
     "typescript": "~4.7.2"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "wallaby": {
+    "trace": true
+  }
 }
